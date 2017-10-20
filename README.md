@@ -8,4 +8,4 @@ Extract the `zip` file of this directory to `C:\` and rename the folder to `gbdk
 All of the source code for the ROM(s) I built are located in the `src` directory for ease-of-access. Fair warning: there are a LOT of hexadecimal values because the GBDK compiles the C code right into Assembly that the Game Boy can read.
 
 ## Looking at the Docs for GBDK
-Apparently, I left a good amount of HTML documents here in the repository, and they seems to all be extremely long and detailed. They should be in the `lib` directory under `xxxhash`.
+Apparently, I left a good amount of HTML documents here in the repository, and they seems to all be extremely long and detailed. They should be in the `lib` directory under `small\asxxxx`.
